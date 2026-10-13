@@ -1,4 +1,4 @@
-# OPay-Transaction-Analysis-for-Q1-and-Q2 of 2026
+# OPay-Transaction-Analysis-for-Q1-and-Q2 2026
 
 # INTRODUCTION
 
@@ -104,7 +104,7 @@ The findings can support improved financial tracking, spending awareness, budget
 
 # OBJECTIVES OF THE ANALYSIS
 
-## OPay Transaction Analysis for Q1 and Q2 of 2026
+## OPay Transaction Analysis for Q1 and Q2 2026
 
 ### General Objective
 
@@ -282,6 +282,7 @@ The combination of **Microsoft Excel, Power Query, DAX, and Microsoft Power BI**
 Through these tools, the OPay transaction dataset can be transformed into an interactive analytical dashboard that supports financial monitoring, spending analysis, and informed decision-making.
 
 # Dashbord || Report
+<img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/908c27ef-4803-48e6-9324-905b3c1af519" />
 
 # KEY FINDINGS AND INSIGHTS
 
