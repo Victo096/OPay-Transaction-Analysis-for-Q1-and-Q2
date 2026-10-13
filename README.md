@@ -281,6 +281,7 @@ The combination of **Microsoft Excel, Power Query, DAX, and Microsoft Power BI**
 
 Through these tools, the OPay transaction dataset can be transformed into an interactive analytical dashboard that supports financial monitoring, spending analysis, and informed decision-making.
 
+# Dashbord || Report
 
 # KEY FINDINGS AND INSIGHTS
 
